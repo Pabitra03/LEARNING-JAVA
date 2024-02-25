@@ -1,4 +1,4 @@
-public class pro5 {
+public class pro05 {
     public static void main(String[]args){
         int a = 7;
         double b = a % 4 ;

@@ -1,4 +1,4 @@
-public class pro8 {
+public class pro08 {
     public static void main(String[] args) {
         String name = new String("pabitra");
         System.out.println(name);

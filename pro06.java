@@ -1,4 +1,4 @@
-public class pro6 {
+public class pro06 {
     public static void main(String[]args){
         //Increment Operators
         int i =56;

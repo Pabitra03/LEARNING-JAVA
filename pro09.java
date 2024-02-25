@@ -1,4 +1,4 @@
-public class pro9 {
+public class pro09 {
     public static void main(String[] args) {
         //String methods of java
         String a = "Pabitra";

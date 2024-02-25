@@ -1,4 +1,4 @@
-public class pro2 {
+public class pro02 {
     public static void main(String[]args){
         //Literls
 
