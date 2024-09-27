@@ -20,7 +20,6 @@ public class pro02 {
         System.out.println("Output is " + h);
         System.out.println("Output is " + j);
         System.out.println("Output is " + p);
-        System.out.println("Output is " + k)
 
 
 
